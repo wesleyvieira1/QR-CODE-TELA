@@ -73,7 +73,7 @@ i{
     margin-right: 10px;
 }
 
-@media (max-width: 412px)
+@media (max-width: 600px)
 {
   main{
     display: flex;
@@ -85,8 +85,9 @@ i{
   }
 
   .titulo{
-    margin-top: 50px;
+    margin-top: 30px;
     font-size: 19px;
+    padding: 0;
   }
 
   label{
