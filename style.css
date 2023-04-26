@@ -73,7 +73,7 @@ i{
     margin-right: 10px;
 }
 
-@media (max-width: 460px)
+@media (max-width: 400px)
 {
   main{
     display: flex;
